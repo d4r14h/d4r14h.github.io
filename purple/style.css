@@ -108,6 +108,7 @@ form {
   padding-top: 0px;
   border: none;
   color: var(--link-heading);
+  margin-top: -40px;
 }
 
 form input {
